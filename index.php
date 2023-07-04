@@ -1,6 +1,6 @@
 <?php 
 
-include './functions/functions.php';
+include_once './functions/functions.php';
 
 ?>
 
